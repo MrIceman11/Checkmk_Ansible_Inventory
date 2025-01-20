@@ -1,5 +1,3 @@
-# README: Checkmk to Ansible Inventory Script
-
 ## Overview
 This Python script retrieves host information from a Checkmk instance, filters them based on specified folders, and generates an Ansible-compatible inventory file in YAML format. The inventory groups are dynamically created based on the folders specified in the configuration.
 
